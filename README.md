@@ -42,3 +42,7 @@ pyttsx3>=2.90
 **Future Work**
 - Train custom model to attain 90%+ accuracy
 - Add OCR for text reading
+
+**Contributors**
+@ameyjawale
+@pavit15
