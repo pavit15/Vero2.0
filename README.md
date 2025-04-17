@@ -44,6 +44,7 @@ pyttsx3>=2.90
 - Add OCR for text reading
 
 **Contributors**
+[Pavit Kaur](https://github.com/pavit15)
 [Amey Jawale](https://github.com/ameyjawale)
 [Pushkar Sanap](link)
 [Ritvik Jeeda](link)
