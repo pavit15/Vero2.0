@@ -46,6 +46,6 @@ pyttsx3>=2.90
 **Contributors**
 [Pavit Kaur](https://github.com/pavit15)
 [Amey Jawale](https://github.com/ameyjawale)
-[Pushkar Sanap](link)
-[Ritvik Jeeda](link)
+[Pushkar Sanap](https://github.com/pushkar-sanap)
+[Ritvik Jeeda](https://github.com/Apollo-RJ)
 [Shivam Kharade](https://github.com/Shivam-WebLab)
