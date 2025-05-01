@@ -48,3 +48,4 @@ pyttsx3>=2.90
 [Amey Jawale](https://github.com/ameyjawale)
 [Pushkar Sanap](link)
 [Ritvik Jeeda](link)
+[Shivam Kharade](https://github.com/Shivam-WebLab)
